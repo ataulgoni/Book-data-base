@@ -4,6 +4,7 @@
 #include <string>
 #include <iomanip>
 #include <vector>
+can you explain little more
 
 using namespace std ;
 /*-----------------------------------------------------------------------------------------------------
